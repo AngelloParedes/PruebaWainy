@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|c:\\users\\angello paredes\\desktop\\pruebawayni\\webapi_wayni\\pruebawaynibackend\\pruebawayni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|solutionrelative:pruebawayni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|c:\\users\\angello paredes\\desktop\\pruebawayni\\webapi_wayni\\pruebawaynibackend\\pruebawayni\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|solutionrelative:pruebawayni\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|c:\\users\\angello paredes\\desktop\\pruebawayni\\webapi_wayni\\pruebawaynibackend\\pruebawayni\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|solutionrelative:pruebawayni\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|c:\\users\\angello paredes\\desktop\\pruebawayni\\webapi_wayni\\pruebawaynibackend\\pruebawayni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8115BFCF-562B-430A-A1C9-C2CB21B16458}|PruebaWayni\\PruebaWayni.csproj|solutionrelative:pruebawayni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "PruebaWayni\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Models\\Productos.cs",
+              "RelativeToolTip": "PruebaWayni\\Models\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:01:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaWayni\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\appsettings.json",
+              "RelativeToolTip": "PruebaWayni\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T19:50:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaWayni\\Program.cs",
+              "ToolTip": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Program.cs",
+              "RelativeToolTip": "PruebaWayni\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:49:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PruebaWayni\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Angello Paredes\\Desktop\\PruebaWayni\\WebApi_Wayni\\PruebaWayniBackend\\PruebaWayni\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PruebaWayni\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:40:57.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
